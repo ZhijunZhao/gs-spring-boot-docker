@@ -1,3 +1,3 @@
 node {
-   echo 'Hello from Zhijun Zhao'
+   echo 'Hello from Zhijun Zhao 2'
 }
