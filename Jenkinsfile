@@ -1,4 +1,3 @@
-cd complete/
-mvn package
-mvn package docker:build -DpushImage
-kubectl create -f *.yaml
+node {
+   echo 'Hello from Zhijun Zhao'
+}
